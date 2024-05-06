@@ -1,0 +1,32 @@
+_repo: Code_73468
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Paul, L.
+    gutenberg_agent_id: '57086'
+    url: http://www.gutenberg.org/2009/agents/57086
+description: ''
+gutenberg_issued: '2024-04-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73468'
+language: en
+pgterms:marc904: https://archive.org/details/AdventureV064N0519271115
+pgterms:marc905: 20240420183230paul
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: Roger Frank and Sue Clark
+publication_note: '  $aNew York, NY :$bThe Butterick Publishing Company, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Sea stories'
+- !lcsh 'Criminals -- Fiction'
+- !lcsh 'Ships -- Fiction'
+- !lcsh 'Radio -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Code
+url: http://www.gutenberg.org/ebooks/73468
